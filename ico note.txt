@@ -1,0 +1,6 @@
+NB 
+1.Geocites doesn't allow .ico files to be uploaded.
+Can get around this by changing the .ico file extension to .zip, uploading it, and then renaming the .zip-> to.ico in Geocities File Manager.
+
+2. To make the .ico files, I used a program called PhotoFiltre 6.0.2 (software 7).
+Open up a photo in it, and then from the Menu Bar>Tools>Export as icon.
